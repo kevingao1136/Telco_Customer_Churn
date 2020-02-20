@@ -13,3 +13,17 @@ Telco-Customer-Churn.csv
 - Demographic info about customers – gender, age range, and if they have partners and dependents
 
 # Results and Findings
+From the EDA, we know that these demographics have a high churn rate: 
+- customers using Fiber optic as their internet service
+- customers without online security
+- customers without online backup
+- customers without tech support
+- customers with a month-to-month contract
+- customers who use electronic check as the payment method
+- customers who pay a high monthly charge
+- customers who are subscribed for only a few months
+
+Potentially, these insights can be translated into business decisions. For example, Telco could - 
+- Change the pricing strategy for month-to-month contract so that customers would prefer to adopt yearly contracts
+- Investigate why customers who pay with electronic checks have a high churn rate, and potentially make the electronic check payment process smoother and more user-friendly
+- Develop a focused retention program for new customers to retain them
